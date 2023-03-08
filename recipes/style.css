@@ -1,0 +1,24 @@
+body {
+    color: white;
+    font-size: 21px;
+}
+
+p {
+    color: orange;
+}
+
+div {
+    width: 500px;
+    height: 250px;
+}
+
+span {
+    background-color: blueviolet;
+    width: 250px;
+}
+
+
+
+.top {
+    background-color: black;
+}
